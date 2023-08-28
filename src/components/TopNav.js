@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 
 const TopNav = () => {
   return (
-    <nav className="navbar navbar-expand-md sticky-top navbar-dark bg-dark">
-      <div className="container-fluid SWwhitetxt">
+    <nav className="navbar navbar-expand-md sticky-top navbar-dark MIblack">
+      <div className="container-fluid MIblack">
         <Link className="navbar-brand d-flex" to="/">
           <img
             className="rounded img-fluid"

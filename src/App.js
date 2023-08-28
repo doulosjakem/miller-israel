@@ -1,4 +1,5 @@
 import "./styles.css";
+import "./colors.css";
 import TopNav from "./components/TopNav.js";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
